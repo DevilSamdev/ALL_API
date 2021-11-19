@@ -1,0 +1,49 @@
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:17:31.399Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:17:48.409Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-18T15:17:48.415Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:20:23.322Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-18T15:22:20.386Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-18T15:22:23.377Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:27:49.916Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:28:13.145Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:28:28.888Z"}
+{"level":"error","message":"successfully done","timestamp":"2021-11-18T15:32:24.581Z"}
+{"level":"error","message":"successfully done","timestamp":"2021-11-18T15:32:35.609Z"}
+{"level":"error","message":"successfully done","timestamp":"2021-11-18T15:34:38.666Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:35:10.980Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-18T15:35:56.002Z"}
+{"level":"error","message":"successfully done","timestamp":"2021-11-18T15:36:05.135Z"}
+{"level":"error","message":"successfully done","timestamp":"2021-11-18T15:36:41.411Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-18T15:38:32.093Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-18T15:46:06.119Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T13:05:04.383Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T13:41:46.834Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:01:08.760Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:02:37.428Z"}
+{"level":"error","message":"error find in registration time","timestamp":"2021-11-19T14:03:40.886Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:04:12.325Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:04:16.370Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:06:23.792Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:06:57.517Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:07:42.125Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-19T14:08:03.450Z"}
+{"level":"error","message":"something went wrong","timestamp":"2021-11-19T14:08:03.450Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-19T14:08:51.795Z"}
+{"level":"info","message":"successfully done","timestamp":"2021-11-19T14:15:20.641Z"}
+{"level":"info","message":"Incoming request [object Object]","timestamp":"2021-11-19T14:22:55.514Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:22:56.020Z"}
+{"level":"info","message":"incoming request [object Object]","timestamp":"2021-11-19T14:25:27.173Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b3d79694a92159d7ba07\"),\n  create_date: 2021-11-19T14:25:27.177Z,\n  tokens: [\n    {\n      token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3YjNkNzk2OTRhOTIxNTlkN2JhMDciLCJpYXQiOjE2MzczMzE5Mjd9.RV9iGhheJD0_hB4Abc3SkLCgr75InYSUSX9-KHyUpNY',\n      _id: new ObjectId(\"6197b3d79694a92159d7ba08\")\n    }\n  ],\n  name: 'shadab akhtar12',\n  gender: 'male',\n  email: 'akhtarshadab371@gmail.com2',\n  phone: '989798987',\n  password: '$2a$10$Jp3KcPMoylaUK2fNBZJNf.vJc8DG7ABpylABJP2vMgXc.Ze.5dqPW',\n  __v: 0\n}","timestamp":"2021-11-19T14:25:28.799Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:25:28.800Z"}
+{"level":"info","message":"incoming request [object Object]","timestamp":"2021-11-19T14:26:17.611Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b4099694a92159d7ba0c\"),\n  create_date: 2021-11-19T14:26:17.612Z,\n  tokens: [\n    {\n      token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3YjQwOTk2OTRhOTIxNTlkN2JhMGMiLCJpYXQiOjE2MzczMzE5Nzd9.7VswqgLZBN5i78KiS4mzbdq0_M_c0a9mb6hA0n6QfcE',\n      _id: new ObjectId(\"6197b4099694a92159d7ba0d\")\n    }\n  ],\n  name: 'shadab akhtar123',\n  gender: 'male',\n  email: 'akhtarshadab371@gmail.com23',\n  phone: '989798987',\n  password: '$2a$10$MooOKdHvlOSPM9bYT5SnXeQ.2Hyi.Y9zHz0QQUqe0Bc2h3M3Cf8ly',\n  __v: 0\n}","timestamp":"2021-11-19T14:26:18.014Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:26:18.015Z"}
+{"level":"info","message":"incoming request [object Object]","timestamp":"2021-11-19T14:26:58.009Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b4329bf25fe7b8879b06\"),\n  create_date: 2021-11-19T14:26:58.013Z,\n  tokens: [\n    {\n      token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3YjQzMjliZjI1ZmU3Yjg4NzliMDYiLCJpYXQiOjE2MzczMzIwMTh9.Wmk1GiAClTOurYUKtkK5mWhaQ0tUrlGcRtnd4GJlwFE',\n      _id: new ObjectId(\"6197b4329bf25fe7b8879b07\")\n    }\n  ],\n  name: 'shadab akhtar1234',\n  gender: 'male',\n  email: 'raza123@gmail.com23',\n  phone: '989798987',\n  password: '$2a$10$RVe5Von0I3sb1c7aG1P7yeKQI9Ot3bZNSOZUweumiNXS5xpTt2Are',\n  __v: 0\n}","timestamp":"2021-11-19T14:26:58.516Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:26:58.517Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b4abdb8301889d66294f\"),\n  create_date: 2021-11-19T14:28:59.429Z,\n  tokens: [],\n  name: 'shadab akhtar12345',\n  gender: 'male',\n  email: 'raza123@gmail.com',\n  phone: '989798987',\n  password: 'razaraza'\n}","timestamp":"2021-11-19T14:28:59.445Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:28:59.447Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b53ca42d132592b4944b\"),\n  create_date: 2021-11-19T14:31:24.708Z,\n  tokens: [\n    {\n      token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3YjUzY2E0MmQxMzI1OTJiNDk0NGIiLCJpYXQiOjE2MzczMzIyODR9.s6dENdu80LgYQk5A2h_AzyyKAnR_NIKBU1Vj6IsHlPI',\n      _id: new ObjectId(\"6197b53ca42d132592b4944c\")\n    }\n  ],\n  name: 'shadab raza',\n  gender: 'male',\n  email: 'raza123@gmail.com',\n  phone: '989798987',\n  password: '$2a$10$0nPGcZg7epKswt3xz6fSy.z/TfsAl/mhcvZQYBryHi6VeL5myESZC',\n  __v: 0\n}","timestamp":"2021-11-19T14:31:25.179Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:31:25.181Z"}
+{"level":"info","message":"response {\n  _id: new ObjectId(\"6197b57ca42d132592b4944f\"),\n  create_date: 2021-11-19T14:32:28.725Z,\n  tokens: [\n    {\n      token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTk3YjU3Y2E0MmQxMzI1OTJiNDk0NGYiLCJpYXQiOjE2MzczMzIzNDh9.CQp-1xaPpr-2z8VbRDebzY03u8U9gtlUQNuLH1lfntM',\n      _id: new ObjectId(\"6197b57ca42d132592b49450\")\n    }\n  ],\n  name: 'shadab raza',\n  gender: 'male',\n  email: 'raza1223@gmail.com',\n  phone: '989798987',\n  password: '$2a$10$5fsAi/TJkiF9Fa2tgtNE1uqw.Np0foEdurnFzWjXm3B/mRNFEm6C6',\n  __v: 0\n}","timestamp":"2021-11-19T14:32:29.123Z"}
+{"level":"info","message":"successfully done registration ","timestamp":"2021-11-19T14:32:29.124Z"}
